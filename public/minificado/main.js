@@ -1,0 +1,1 @@
+function ಠ_ಠ972(){console.log("Hola, si jalo"),alert("Si jalo en el DOM")}
